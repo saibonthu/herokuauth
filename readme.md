@@ -1,11 +1,11 @@
 # Project Setup
 
-[![Production Workflow](https://github.com/saibonthu/heroku_auth/actions/workflows/prod.yml/badge.svg)](https://github.com/saibonthu/heroku_auth/actions/workflows/prod.yml)
+[![Production Workflow](https://github.com/saibonthu/herokuauth/actions/workflows/prod.yml/badge.svg)](https://github.com/saibonthu/herokuauth/actions/workflows/prod.yml)
 
 * [Production Deployment](https://herokuauth-prod.herokuapp.com/)
 
 
-[![Development Workflow](https://github.com/saibonthu/heroku_auth/actions/workflows/dev.yml/badge.svg)](https://github.com/saibonthu/heroku_auth/actions/workflows/dev.yml)
+[![Development Workflow](https://github.com/saibonthu/herokuauth/actions/workflows/dev.yml/badge.svg)](https://github.com/saibonthu/herokuauth/actions/workflows/dev.yml)
 
 * [Developmental Deployment](https://herokuauth-dev.herokuapp.com/)
 
